@@ -1,0 +1,3 @@
+[submodule "lpd-theme"]
+	path = lpd-theme
+	url = https://github.com/toulibre/pelican-lpd-theme
