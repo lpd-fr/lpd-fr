@@ -7,7 +7,10 @@ SITENAME = u'Linux Presentation Day France'
 SITEURL = ''
 
 
+# Theme stuff
 THEME = './lpd-theme'
+HEADER_COVER = '/theme/images/default-bg.jpg'
+
 
 PLUGIN_PATHS = ('/home/numahell/.pelican/pelican-plugins',)
 PLUGINS = [ 'assets', 'html_rst_directive', ]

@@ -1,5 +1,7 @@
 :title: Linux Presentation Day France
+:summary: Short version for index and feeds
 :save_as: index.html
+:header_cover: /theme/images/home-bg.jpg
 
 Linux Presentation Day France
 =============================
