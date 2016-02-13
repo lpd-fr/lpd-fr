@@ -10,6 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+LOAD_CONTENT_CACHE = True
+
 SITEURL = 'http://linux-presentation-day.fr'
 RELATIVE_URLS = False
 

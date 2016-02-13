@@ -6,6 +6,7 @@ AUTHOR = u'Linux Presentation Day France'
 SITENAME = u'Linux Presentation Day France'
 SITEURL = ''
 
+LOAD_CONTENT_CACHE = False
 
 # Theme stuff
 THEME = './lpd-theme'
