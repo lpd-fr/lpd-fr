@@ -1,3 +1,6 @@
+:title: Linux Presentation Day France
+:save_as: index.html
+
 Linux Presentation Day France
 =============================
 
