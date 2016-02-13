@@ -1,3 +1,7 @@
+:title: Participer
+:summary: Organiser un événement au Linux Presentation Day
+
+====================================
 Participer au Linux Presentation Day
 ====================================
 
@@ -7,9 +11,28 @@ Linux Presentation Day (ou LPD) est un événement à grande échelle qui a pour
 
 L’idée d’organiser un événement de manière synchronisée sur l’ensemble de l’Europe a été initiée par le groupe d’utilisatrices et d’utilisateurs de Linux berlinois (BeLUG), afin de faire connaître et découvrir Linux et les logiciels libres à un large public et d’éveiller l’attention des médias.
 
+En résumé
+---------
 
 .. raw:: html
-  :file: include/header-participate.html
+
+    <div class="row">
+      <div class="col-md-4">
+        <h3>Tout le monde peut participer</h3>
+        <p>
+          GUL, clubs informatiques et/ou étudiants, mais aussi bibliothèques, fablabs, tiers-lieux, écoles, ...
+        </p>
+      </div>
+      <div class="col-md-4">
+        <h3>Pour faire connaître Linux</h3>
+        <p>C'est l'occasion de toucher un plus large public, avec une visibilité des média non spécialisés.</p>
+      </div>
+      <div class="col-md-4">
+        <h3>Organiser une présentation le 30 avril</h3>
+        <p>En organisant une présentation le 30 avril. Trouvez de l'aide sur la <a href="http://toulibre.org/cgi-bin/mailman/listinfo/lpd-fr">liste de discussion</a>.</p>
+      </div>
+    </div>
+
 
 Les objectifs
 ----------------

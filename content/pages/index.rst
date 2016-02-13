@@ -1,7 +1,8 @@
 :title: Linux Presentation Day France
-:summary: Short version for index and feeds
+:summary: Une journée pour découvrir et essayer Linux
 :save_as: index.html
 :header_cover: /theme/images/home-bg.jpg
+:status: hidden
 
 Linux Presentation Day France
 =============================
