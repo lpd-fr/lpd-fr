@@ -4,7 +4,9 @@ Site Linux Presentation Day
 
 Le site utilise pelican pour générer les pages HTML à partir de fichiers en rst.
 
-Il suffit d'installer pelican dans un virtualenv en local pour générer le site entier, il n'est pas utile de l'installer sur le serveur.
+Pour générer les pages à partir des fichiers source, il suffit d'installer pelican dans un virtualenv en local.
+
+Il n'est pas utile de l'installer sur le serveur, il faut copier le contenu du dossier `output` pour publier.
 
 Installation
 =============
