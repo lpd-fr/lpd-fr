@@ -18,3 +18,8 @@ Ce site est édité par l'association `Toulibre <http://toulibre.org/>`__:
     Association Toulibre,
     57, rue Labat de Savignac,
     31500 Toulouse
+
+Crédits
+-------
+
+Photo en page d'accueil par JeanZ, de PhotoN7.

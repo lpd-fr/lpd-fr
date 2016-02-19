@@ -4,13 +4,8 @@
 :header_cover: /theme/images/home-bg.jpg
 :status: hidden
 
-Linux Presentation Day France
-=============================
-
-Une journée pour découvrir et essayer Linux
--------------------------------------------
-
-**Samedi 30 avril 2016**
+Samedi 30 avril 2016
+--------------------
 
 Partout dans le monde.
 
@@ -35,7 +30,7 @@ En France, les GUL suivants ont annoncé leur participation :
 * Oisux (http://oisux.org) ;
 * Toulibre (http://toulibre.org).
 
-.. class:: attente
+.. class:: bg-info
 
 **Plus d'informations sur les événements organisés pour cette journée très bientôt.**
 

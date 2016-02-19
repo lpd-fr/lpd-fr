@@ -4,14 +4,16 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Linux Presentation Day France'
 SITENAME = u'Linux Presentation Day France'
+SITESUBTITLE = u'Une journée pour découvrir et essayer Linux'
 SITEURL = ''
+SITELOGO = '/theme/images/logo-lpd.png'
+LP_DATE = 'Samedi 30 avril'
 
 LOAD_CONTENT_CACHE = False
 
 # Theme stuff
 THEME = './lpd-theme'
-HEADER_COVER = '/theme/images/default-bg.jpg'
-
+# HEADER_COVER = '/theme/images/default-bg.jpg'
 
 PLUGIN_PATHS = ('/home/numahell/.pelican/pelican-plugins',)
 PLUGINS = [ 'assets', 'html_rst_directive', ]
@@ -31,6 +33,8 @@ CATEGORY_SAVE_AS = CATEGORY_URL
 
 YEAR_ARCHIVE_SAVE_AS = 'blog/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/index.html'
+
+DISPLAY_CATEGORIES_ON_MENU = False
 
 TIMEZONE = 'Europe/Paris'
 
