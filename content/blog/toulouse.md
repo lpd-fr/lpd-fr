@@ -2,7 +2,7 @@ Title: Linux Presentation Day à Toulouse
 Summary: Toulibre organise des ateliers et démos pour répondre aux questions du public
 Date: 2016-03-10
 Status: draft
-Category: Evènement
+Category: Évènements
 
 ## Divers
 

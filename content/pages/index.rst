@@ -1,13 +1,6 @@
 :title: Linux Presentation Day France
 :summary: Une journée pour découvrir et essayer Linux
-:save_as: index.html
 :header_cover: /theme/images/home-bg.jpg
-:status: hidden
-
-Samedi 30 avril 2016
---------------------
-
-Partout dans le monde.
 
 Qu’est-ce que c’est ?
 ---------------------
