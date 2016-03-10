@@ -1,6 +1,7 @@
 Title: Communiqué de presse : Linux Presentation Day 2016.1 en France
 Summary: Samedi 30 avril aura lieu une journée de présentation de GNU/Linux
 Date: 2016-03-10
+Status: draft
 
 ## Journée de présentation de GNU/Linux
 
