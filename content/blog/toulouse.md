@@ -1,20 +1,27 @@
 Title: Linux Presentation Day à Toulouse
 Summary: Toulibre organise des ateliers et démos pour répondre aux questions du public
 Date: 2016-03-10
+Status: draft
 Category: Evènement
 
-Lieu: Ekito
+## Divers
 
-horaires : 14h-18h
+* Lieu: Ekito
+* Horaires : samedi 30 avril, 14h-18h
 
-## Ateliers informels
-permettre au public de venir poser des questions
+## Ateliers informels / démons
 
-plusieurs ilôts selon les thèmes
+Permettre au public de venir poser des questions, pas un atelier dogmatique.
+
+Plusieurs ilôts selon les thèmes
 * graphisme / bureautique -> Manue
 * etc.
 
-débats / forum ouvert aspects éthiques
+## débats / forum ouvert
+
+Sur les aspects éthiques et l'écosystème du logiciel libre
+
+## Présentation ponctuelle de linux et des logiciels libres
 
 Présentation rapide à la demande de linux et logiciels libres (10 min), qui reviennent plusieurs fois dans la journée.
 
