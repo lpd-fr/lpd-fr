@@ -7,7 +7,7 @@ SITENAME = u'Linux Presentation Day France'
 SITESUBTITLE = u'Une journée pour découvrir et essayer Linux'
 SITEURL = ''
 SITELOGO = '/theme/images/logo-lpd.png'
-LP_DATE = 'Samedi 30 avril'
+LPD_DATE = 'Samedi 30 avril 2016'
 
 LOAD_CONTENT_CACHE = False
 
