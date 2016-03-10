@@ -2,7 +2,7 @@ Mentions légales
 ================
 
 Le site linux-presentation-day.fr est hébergé en France, par l'association
-`tetaneutral.net <http://tetaneutral.net/>`__:
+`tetaneutral.net <http://tetaneutral.net/>`_:
 
 ::
 
@@ -11,7 +11,7 @@ Le site linux-presentation-day.fr est hébergé en France, par l'association
     10 chemin Tricou
     31200 TOULOUSE
 
-Ce site est édité par l'association `Toulibre <http://toulibre.org/>`__:
+Ce site est édité par l'association `Toulibre <http://toulibre.org/>`_:
 
 ::
 
@@ -22,4 +22,5 @@ Ce site est édité par l'association `Toulibre <http://toulibre.org/>`__:
 Crédits
 -------
 
-Photo en page d'accueil par JeanZ, de PhotoN7.
+* Photo en page d'accueil par JeanZ, de PhotoN7.
+* Thème basé sur Clean Blog Pelican, personnalisé par Yemanlisa et Numahell
