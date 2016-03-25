@@ -25,10 +25,11 @@ En France, les GUL suivants ont annoncé leur participation :
 
 .. class:: simple
 
-* CULTe (http://culte.org) ;
-* Montpel'libre (http://montpel-libre.fr) ;
-* Oisux (http://oisux.org) ;
-* Toulibre (http://toulibre.org).
+* CULTe (http://culte.org) − Toulouse ;
+* Montpel'libre (http://montpel-libre.fr) − Montpellier ;
+* NUI (http://www.nui.fr/) − Rouen ;
+* Oisux (http://oisux.org) − Beauvais;
+* Toulibre (http://toulibre.org) − Toulouse.
 
 .. class:: bg-info
 
