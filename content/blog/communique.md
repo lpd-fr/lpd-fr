@@ -2,6 +2,7 @@
 title: 'Linux Presentation Day 2016.1 en France'
 summary: 'Samedi 30 avril aura lieu une journée de présentation de GNU/Linux'
 date: 2016-03-30
+status: draft
 
 lang: french
 fontfamily: quattrocento
@@ -16,7 +17,7 @@ Le **samedi 30 avril 2016** aura lieu une journée de présentation de GNU/Linux
 
 En France, plusieurs associations et autres organisations organisent des manifestations lors de cette journée, dans divers lieux. [Le site internet](http://linux-presentation-day.fr/) affichera tous ces événements bientôt.
 
-![Install party GNU/Linux - photo JeanZ](../extra/images/install-party-photo-jeanz.jpg)
+![Install party GNU/Linux - photo JeanZ](/extra/images/install-party-photo-jeanz.jpg)
 
 **Linux Presentation Day** a été initié par le LUG de Berlin en 2014, et est organisé deux fois par an dans plusieurs pays depuis 2015.
 
