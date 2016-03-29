@@ -50,7 +50,7 @@ Générer le site à l'aide du script de développement :
 
 ::
 
-    cd lpd-fr-pelican
+    cd lpd-fr
     make clean
     make devserver
 

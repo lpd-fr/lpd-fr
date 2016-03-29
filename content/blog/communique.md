@@ -15,13 +15,14 @@ En France, plusieurs associations et autres organisations organisent des manifes
 
 Un [logiciel libre](http://www.april.org/articles/intro/ll.html) donne un certain nombre de libertés aux utilisateurs :
 
-
 * la liberté d'utiliser le logiciel, pour quelque usage que ce soit (liberté 0)
 * la liberté d'étudier le fonctionnement du programme, et de l'adapter à vos propres besoins (liberté 1). L'accès au code source est une condition pour tout ceci  
 * la liberté de redistribuer des copies de façon à pouvoir aider votre voisin (liberté 2)  
-* la liberté d'améliorer le programme, et de diffuser vos améliorations au public, de façon à ce que l'ensemble de la communauté en tire avantage (liberté 3). L'accès au code source est une condition pour tout ceci  
+* la liberté d'améliorer le programme, et de diffuser vos améliorations au public, de façon à ce que l'ensemble de la communauté en tire avantage (liberté 3). L'accès au code source est une condition pour tout ceci.
 
-(envoyé sur toulibre-orga et lpd-fr pour compléter)
+Des logiciels libres pour naviguer sur internet, faire du traitement de texte, de la retouche photo ou de la création graphique, voir des vidéos, ou même jouer ... Tout cela vous pourrez le découvrir lors de cette journée dédiée !
+
+
 
 
 **ATTENTION**
