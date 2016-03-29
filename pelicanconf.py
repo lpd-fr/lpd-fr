@@ -18,6 +18,10 @@ THEME = './lpd-theme'
 PLUGIN_PATHS = ('/home/numahell/.pelican/pelican-plugins',)
 PLUGINS = [ 'assets', 'html_rst_directive', 'md_inline_extension']
 
+STATIC_PATHS = [
+    'extra/images',
+    ]
+
 PATH = 'content'
 ARTICLE_PATHS = ['blog']
 PAGE_PATHS = ['pages']
