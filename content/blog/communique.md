@@ -2,11 +2,6 @@
 title: 'Linux Presentation Day 2016.1 en France'
 summary: 'Samedi 30 avril aura lieu une journée de présentation de GNU/Linux'
 date: 2016-03-30
-status: draft
-
-lang: french
-fontfamily: quattrocento
-geometry: margin=1.25in
 ...
 
 # Communiqué de presse
