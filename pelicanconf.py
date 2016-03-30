@@ -20,6 +20,7 @@ PLUGINS = [ 'assets', 'html_rst_directive', 'md_inline_extension']
 
 STATIC_PATHS = [
     'extra/images',
+    'extra/pdf',
     ]
 
 PATH = 'content'
