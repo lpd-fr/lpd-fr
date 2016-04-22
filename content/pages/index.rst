@@ -18,7 +18,9 @@ En France, les GUL suivants ont annoncé leur participation :
 
 .. class:: simple
 
+* Cenabumix (http://wiki.cenabumix.org) − Orléans ;
 * CULTe (http://culte.org) − Toulouse ;
+* Linux Nantes (http://www.linux-nantes.org) − Nantes ;
 * Montpel'libre (http://montpel-libre.fr) − Montpellier ;
 * NUI (http://www.nui.fr/) − Rouen ;
 * Oisux (http://oisux.org) − Beauvais;
