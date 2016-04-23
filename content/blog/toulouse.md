@@ -7,13 +7,14 @@ Category: Événements
 ## Infos pratiques
 
 * Lieu : Ekito Grand Builder, 15 rue Gabriel Péri
-* Horaires : samedi 30 avril, 14 h - 18 h
+* Horaires : 14 h - 18 h
 
 ## Ateliers informels / démonstrations
 
 Permettre au public de venir poser des questions, pas un atelier dogmatique.
 
 Plusieurs ilôts selon les thèmes
+
 * graphisme / bureautique -> Manue
 * MAO -> Arnaud
 * etc.
