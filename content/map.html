@@ -1,0 +1,30 @@
+{% extends "index.html" %}
+
+{% block title %}Carte des événements{% endblock title %}
+
+{% block head %}
+    {{ super() }}
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/leaflet/leaflet.css" />
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/leaflet/leaflet.js"></script>
+    <style>
+    #map { height: 480px; overflow: hidden; }
+    </style>
+{% endblock %}
+
+{% block content %}
+
+<div id="map"></div>
+
+<script>
+var lpdmap = L.map('map').setView([46.498, -0.549], 6);
+var geojsonLPD = [{"type":"Feature","properties":{"id":11126,"name":"Linux Presentation Day","start_time":"2016-04-30T13:00:00.000Z","end_time":"2016-04-30T16:00:00.000Z","place_name":"Salle de la Poésie","address":"9 rue de la Poésie","city":"Montpellier","locality":0,"tags":"atellibre montpel-libre atelier linux-presentation-day","popupContent":"\u003ca href=\"/events/11126\"\u003e2016-04-30 Montpellier: Linux Presentation Day #atellibre #montpelLibre #atelier #linuxPresentationDay\u003c/a\u003e"},"geometry":{"type":"Point","coordinates":[3.88187,43.6174]}},{"type":"Feature","properties":{"id":11134,"name":"Linux Presentation Day","start_time":"2016-04-30T14:00:00.000Z","end_time":"2016-04-30T20:00:00.000Z","place_name":"Linux Nantes","address":"17 rue Paul Bellamy","city":"Nantes","locality":0,"tags":"linux gnu-linux linux-nantes linux-presentation-day","popupContent":"\u003ca href=\"/events/11134\"\u003e2016-04-30 Nantes: Linux Presentation Day #linux #gnuLinux #linuxNantes #linuxPresentationDay\u003c/a\u003e"},"geometry":{"type":"Point","coordinates":[-1.55641,47.2219]}},{"type":"Feature","properties":{"id":11152,"name":"Linux Presentation Day","start_time":"2016-04-30T14:00:00.000Z","end_time":"2016-04-30T18:00:00.000Z","place_name":"Grand builder Ekito","address":"15 rue Gabriel Péri","city":"Toulouse","locality":0,"tags":"linux-presentation-day toulibre présentation logiciels-libres","popupContent":"\u003ca href=\"/events/11152\"\u003e2016-04-30 Toulouse: Linux Presentation Day #linuxPresentationDay #toulibre #présentation #logicielsLibres\u003c/a\u003e"},"geometry":{"type":"Point","coordinates":[1.45209,43.6059]}}];
+
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(lpdmap);
+
+L.geoJson(geojsonLPD).addTo(lpdmap);
+
+</script>
+
+{% endblock content %}

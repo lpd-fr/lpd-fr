@@ -21,11 +21,14 @@ PLUGINS = [ 'assets', 'html_rst_directive', 'md_inline_extension']
 STATIC_PATHS = [
     'extra/images',
     'extra/pdf',
-    ]
+]
 
 PATH = 'content'
+
 ARTICLE_PATHS = ['blog']
 PAGE_PATHS = ['pages']
+
+TEMPLATE_PAGES = {'map.html': 'map.html',}
 
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 ARTICLE_SAVE_AS = ARTICLE_URL
