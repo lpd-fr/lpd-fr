@@ -11,24 +11,17 @@ Category: Événements
 
 ## Ateliers informels / démonstrations
 
-Permettre au public de venir poser des questions, pas un atelier dogmatique.
+Vous pourrez venir poser vos questions, expérimenter des logiciels libres, sur les stands / ateliers thématiques proposés.
 
-Plusieurs ilôts selon les thèmes
 
-* graphisme / bureautique -> Manue
-* MAO -> Arnaud
-* etc.
-
-## Débats / forum ouvert
-
-Sur les aspects éthiques et l'écosystème du logiciel libre
 
 ## Présentation ponctuelle de linux et des logiciels libres
 
 Présentation rapide à la demande de linux et logiciels libres (10 min), qui reviennent plusieurs fois dans la journée.
 
-Panneaux d’Expolibre http://expolibre.org/
+[Exposition "Expolibre"](http://expolibre.org/)
 
+<!--
 flyer sur le libre
 * poubelle de récup de flyer (rien ne se perd)
 
@@ -37,3 +30,4 @@ flyer de comm template
 * date site lieu (pour toulouse)
 * explication du LPD
 * photo
+-->
