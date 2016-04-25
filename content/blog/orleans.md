@@ -25,3 +25,5 @@ Si vous souhaitez installer GNU/Linux sur votre ordinateur et enfin vous libére
 Libérez votre ordinateur en installant le système d'exploitation libre GNU/Linux.
 
 **Prévoir une sauvegarde préalable de vos données**.
+
+[En savoir plus](http://www.agendadulibre.org/events/11055)
