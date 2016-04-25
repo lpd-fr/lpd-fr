@@ -43,7 +43,9 @@ CATEGORY_SAVE_AS = CATEGORY_URL
 YEAR_ARCHIVE_SAVE_AS = 'blog/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/index.html'
 
-DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
+MENUITEMS = (("Les événements", "/blog/evenements.html"),
+    ("Carte", "/map.html"),)
 
 TIMEZONE = 'Europe/Paris'
 
