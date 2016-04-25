@@ -1,4 +1,4 @@
-Title: Orléans
+Title: Linux Presentation Day à Orléans
 Summary: Cenabumix organise une install-party
 Date: 2016-04-23
 Category: Événements
