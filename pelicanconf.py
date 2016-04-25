@@ -19,6 +19,7 @@ PLUGIN_PATHS = ('/home/numahell/.pelican/pelican-plugins',)
 PLUGINS = [ 'assets', 'html_rst_directive', 'md_inline_extension']
 
 STATIC_PATHS = [
+    'extra/js',
     'extra/images',
     'extra/pdf',
 ]
