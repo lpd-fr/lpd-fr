@@ -1,7 +1,6 @@
 Title: Linux Presentation Day à Toulouse
 Summary: Toulibre organise des ateliers et des démos pour répondre aux questions du public
-Date: 2016-04-22
-Status: draft
+Date: 2016-04-27
 Category: Événements
 
 ## Infos pratiques
@@ -11,15 +10,17 @@ Category: Événements
 
 ## Ateliers informels / démonstrations
 
-Vous pourrez venir poser vos questions, expérimenter des logiciels libres, sur les stands / ateliers thématiques proposés.
+Venez poser vos questions, expérimenter des logiciels libres, sur les stands / ateliers thématiques proposés :
 
-
+* GNU/Linux et Logiciels libres avec Toulibre
+* Blender et outils graphiques libres avec le [Blender User Group](http://bugtoulouse.tuxfamily.org/#)
+* [Degooglisons Internet](http://degooglisons-internet.org/) avec [Framasoft](http://framasoft.net/)
 
 ## Présentation ponctuelle de linux et des logiciels libres
 
 Présentation rapide à la demande de linux et logiciels libres (10 min), qui reviennent plusieurs fois dans la journée.
 
-[Exposition "Expolibre"](http://expolibre.org/)
+Retrouvez également l'[exposition "Expolibre"](http://expolibre.org/).
 
 <!--
 flyer sur le libre
