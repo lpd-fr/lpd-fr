@@ -1,7 +1,8 @@
 Title: Linux Presentation Day à Beauvais
-Summary: Atelier de découverte des logiciels libres
+Summary: Atelier de découverte des logiciels libres de 9h à 12h
 Date: 2016-04-27
 Category: Événements
+Author: Oisux
 
 ![Oisux](http://www.oisux.org/blog/images/deco_logo_0.png)
 {: .pull-right}

@@ -1,5 +1,5 @@
 Title: Linux Presentation Day à Orléans
-Summary: Cenabumix organise une install-party
+Summary: Cenabumix organise une install-party de 14h à 18h
 Date: 2016-04-23
 Category: Événements
 Author: Cenabumix
@@ -26,4 +26,4 @@ Libérez votre ordinateur en installant le système d'exploitation libre GNU/Lin
 
 **Prévoir une sauvegarde préalable de vos données**.
 
-[En savoir plus](http://www.agendadulibre.org/events/11055)
+[En savoir plus](http://www.agendadulibre.org/events/11055){: .btn }

@@ -1,12 +1,15 @@
 Title: Linux Presentation Day à Rouen
-Summary: Journée Mensuelle du Logiciel Libre à la Maison de St Sever
+Summary: Journée Mensuelle du Logiciel Libre à la Maison de St Sever de 14h à 18h
 Date: 2016-04-28
 Category: Événements
+Author: NUI
 
 ## Infos pratiques
 
 * Maison St Sever (RdC), 10-12 rue Saint-Julien
 * 14h à 18h
+
+Organisé par [NUI](http://www.nui.fr/)
 
 ## Activités
 
@@ -19,3 +22,5 @@ Il y aura également une démonstration du Raspberry PI 3, le pico-ordinateur à
 ## Goodies
 
 Des DVD OpenSuse seront distribués gratuitement, et si vous venez avec votre clé USB vous pourrez repartir avec de nombreuses ressources libres.
+
+[En savoir plus](http://www.agendadulibre.org/events/10986){: .btn }

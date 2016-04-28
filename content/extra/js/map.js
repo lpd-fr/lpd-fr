@@ -4,7 +4,10 @@
 function onEachFeature(feature, layer) {
     // does this feature have a property named popupContent?
     if (feature.properties && feature.properties.name) {
-        var popupContent = "\u003ca href=\"http://agendadulibre.org/events/" + feature.properties.id + "\"\u003e" + feature.properties.city + " : " + feature.properties.name + "\u003c/a\u003e";
+        var popupContent = "\u003ca href=\"http://agendadulibre.org/events/" + feature.properties.id + "\"\u003e";
+        popupContent += feature.properties.city + " : " + feature.properties.name + "\u003c/a\u003e\u003cbr\u003e";
+        popupContent += feature.properties.place_name; // + ", ";
+        // popupContent += feature.properties.start_time + " &ndash; " + feature.properties.end_time;
         layer.bindPopup(popupContent);
     }
 }

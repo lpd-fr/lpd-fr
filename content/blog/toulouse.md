@@ -2,11 +2,14 @@ Title: Linux Presentation Day à Toulouse
 Summary: Toulibre organise des ateliers et des démos pour répondre aux questions du public
 Date: 2016-04-27
 Category: Événements
+Author: Toulibre
 
 ## Infos pratiques
 
 * Lieu : Ekito Grand Builder, 15 rue Gabriel Péri
 * Horaires : 14 h - 18 h
+
+Orgnisé par [Toulibre](http://toulibre.org)
 
 ## Ateliers informels / démonstrations
 
@@ -21,6 +24,10 @@ Venez poser vos questions, expérimenter des logiciels libres, sur les stands / 
 Présentation rapide à la demande de linux et logiciels libres (10 min), qui reviennent plusieurs fois dans la journée.
 
 Retrouvez également l'[exposition "Expolibre"](http://expolibre.org/).
+
+[En savoir plus](http://www.agendadulibre.org/events/11152){: .btn }
+
+
 
 <!--
 flyer sur le libre
