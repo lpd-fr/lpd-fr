@@ -2,6 +2,7 @@ Title: Linux Presentation Day à Montpellier
 Summary: Montpel'libre fera une présentation des distributions qu’elle supporte.
 Date: 2016-04-23
 Category: Événements
+Author: Montpel'libre
 
 ## Infos pratiques
 
