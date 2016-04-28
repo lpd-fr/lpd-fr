@@ -1,4 +1,4 @@
-Title: Rouen
+Title: Linux Presentation Day à Rouen
 Summary: Journée Mensuelle du Logiciel Libre à la Maison de St Sever
 Date: 2016-04-28
 Category: Événements
