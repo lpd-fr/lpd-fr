@@ -17,6 +17,7 @@ Venez poser vos questions, expérimenter des logiciels libres, sur les stands / 
 
 * GNU/Linux et Logiciels libres avec Toulibre
 * Blender et outils graphiques libres avec le [Blender User Group](http://bugtoulouse.tuxfamily.org/#)
+* MAO: Ardour, Guitarix,... par A-wai
 * [Degooglisons Internet](http://degooglisons-internet.org/) avec [Framasoft](http://framasoft.net/)
 
 ## Présentation ponctuelle de linux et des logiciels libres
